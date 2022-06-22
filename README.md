@@ -1,5 +1,5 @@
 # Microsoft_Cybersecurity_Engage_2022
-This repository contains code for my solution prototype built as part of Microsoft's Cybersecurity Engage program.
+This repository contains code for my solution built as part of Microsoft's Cybersecurity Engage program.
 
 This repository contains simulations of load modulation strategies to optimize instability using Load Frequency Control (LFC) resonant behavior in modern power grids.
 
